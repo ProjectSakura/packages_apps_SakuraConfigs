@@ -27,26 +27,28 @@
         android:summary="@string/pi_spoof_summary"
         android:defaultValue="true" />
      -->
-
-     <!-- Unlock FPS for specific games -->
+     <!-- Unlock FPS for specific games 
      <com.sakura.support.preferences.SystemSettingSwitchPreference
         android:key="persist.sys.pixelprops.games"
         android:title="@string/use_games_spoof_title"
         android:summary="@string/use_games_spoof_summary" />
+     -->
 
-    <!-- Unlimited google photos storage -->
+    <!-- Unlimited google photos storage 
      <com.sakura.support.preferences.SystemSettingSwitchPreference
         android:key="persist.sys.pixelprops.gphotos"
         android:title="@string/use_photos_spoof_title"
         android:summary="@string/use_photos_spoof_summary"
         android:defaultValue="true" />
+     -->
 
-     <!-- Netflix -->
+     <!-- Netflix
      <com.sakura.support.preferences.SystemSettingSwitchPreference
         android:key="persist.sys.pixelprops.netflix"
         android:title="@string/netflix_spoof_title"
         android:summary="@string/netflix_spoof_summary"
         android:defaultValue="false" />
+     -->
 
      <!-- Three-fingers-swipe to screenshot -->
      <com.sakura.support.preferences.SystemSettingSwitchPreference

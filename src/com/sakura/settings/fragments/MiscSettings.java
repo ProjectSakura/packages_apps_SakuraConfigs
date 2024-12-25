@@ -88,9 +88,9 @@ public class MiscSettings extends SettingsPreferenceFragment implements
                 Settings.Secure.ENABLE_PROJECTION_PRIVACY_INDICATOR, 1, UserHandle.USER_CURRENT);
         Settings.System.putIntForUser(resolver,
                 Settings.System.BLUETOOTH_SHOW_BATTERY, 1, UserHandle.USER_CURRENT);
-        SystemProperties.set(SYS_GAMES_SPOOF, "false");
+        SystemProperties.set(SYS_GAMES_SPOOF, "true");
         SystemProperties.set(SYS_PHOTOS_SPOOF, "true");
-        SystemProperties.set(SYS_NETFLIX_SPOOF, "false");
+        SystemProperties.set(SYS_NETFLIX_SPOOF, "true");
     }
 
     public boolean onPreferenceChange(Preference preference, Object newValue) {
