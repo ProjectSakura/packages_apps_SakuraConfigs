@@ -75,7 +75,7 @@
             android:summary="@string/dev4_description" >
         <intent
             android:action="android.intent.action.VIEW"
-            android:data="https://telegram.me/ProB0MBER" />
+            android:data="https://telegram.me/anoosragh69" />
         </Preference>
 
         <Preference
@@ -85,7 +85,27 @@
             android:summary="@string/dev5_description" >
         <intent
             android:action="android.intent.action.VIEW"
-            android:data="https://telegram.me/anoosragh69" />
+            android:data="https://telegram.me/semisapeol" />
+        </Preference>
+
+        <Preference
+            android:key="dev6"
+            android:title="@string/dev_6"
+            android:icon="@drawable/ic_code"
+            android:summary="@string/dev6_description" >
+        <intent
+            android:action="android.intent.action.VIEW"
+            android:data="https://telegram.me/XelXen" />
+        </Preference>
+
+        <Preference
+            android:key="dev7"
+            android:title="@string/dev_7"
+            android:icon="@drawable/ic_code"
+            android:summary="@string/dev7_description" >
+        <intent
+            android:action="android.intent.action.VIEW"
+            android:data="https://telegram.me/momen_abdulrazek" />
         </Preference>
 </PreferenceCategory>
 

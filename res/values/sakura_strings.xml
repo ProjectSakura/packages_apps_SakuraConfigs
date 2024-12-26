@@ -38,13 +38,22 @@
   <string name="dev_3">ArmSM</string>
   <string name="dev_3_git" translatable="false">ArmSM</string>
   <string name="dev3_description">Core Team</string>
-  <string name="dev_4">ArunTeltia</string>
-  <string name="dev_4_git" translatable="false">ArunTeltia</string>
-  <string name="dev4_description">Web Developer</string>  
   <!-- The Noob -->
-  <string name="dev_5">Anoosragh</string>
-  <string name="dev_5_git" translatable="false">anoosragh69</string>
-  <string name="dev5_description">Core Team</string>
+  <string name="dev_4">Anoosragh</string>
+  <string name="dev_4_git" translatable="false">anoosragh69</string>
+  <string name="dev4_description">Core Team</string>
+  <!-- Web Slinger -->
+  <string name="dev_5">Sapan Gajjar</string>
+  <string name="dev_5_git" tranlatable="false">isg32</string>
+  <string name="dev5_description">Web Developer</string>
+  <!-- Leonardo Davinci -->
+  <string name="dev_6">Waze</string>
+  <string name="dev_6_git" tranlatable="false">xelxen</string>
+  <string name="dev6_description">Designer</string>
+  <!-- Alpha male -->
+  <string name="dev_7">Momen Abdulrazek Ali</string>
+  <string name="dev_7_git" tranlatable="false">momenabdulrazek</string>
+  <string name="dev7_description">Core Team</string>
 
   <!-- Donators info -->
   <string name="sakura_donator_about_info">About Donators</string>
