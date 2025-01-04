@@ -23,7 +23,7 @@
   <!-- ROM Info -->
   <string name="sakura_about_info">About Project</string>
   <string name="sakura_about_info_summary_title">About Team</string>
-  <string name="sakura_about_info_summary">A customised Lineage OS. Its sole purpose is to provide a platform which is powered by Lineage and is more customisable than Lineage.</string> 
+  <string name="sakura_about_info_summary">A customised LineageOS. Its sole purpose is to provide a platform which is powered by Lineage and is more customisable than Lineage.</string> 
   <!-- Dev Info -->
   <string name="devs_header">Family Members</string>
   <!-- The broken Lord -->
@@ -37,11 +37,11 @@
   <!-- Motivational Speaker -->
   <string name="dev_3">ArmSM</string>
   <string name="dev_3_git" translatable="false">ArmSM</string>
-  <string name="dev3_description">Core Team</string>
+  <string name="dev3_description">Core Developer</string>
   <!-- The Noob -->
   <string name="dev_4">Anoosragh</string>
   <string name="dev_4_git" translatable="false">anoosragh69</string>
-  <string name="dev4_description">Core Team</string>
+  <string name="dev4_description">Core Developer</string>
   <!-- Web Slinger -->
   <string name="dev_5">Sapan Gajjar</string>
   <string name="dev_5_git" tranlatable="false">isg32</string>
@@ -53,7 +53,7 @@
   <!-- Alpha male -->
   <string name="dev_7">Momen Abdulrazek Ali</string>
   <string name="dev_7_git" tranlatable="false">momenabdulrazek</string>
-  <string name="dev7_description">Core Team</string>
+  <string name="dev7_description">Core Developer</string>
 
   <!-- Donators info -->
   <string name="sakura_donator_about_info">About Donators</string>

@@ -27,12 +27,12 @@
         android:summary="@string/notification_material_dismiss_summary"
         android:defaultValue="false" />
 
-    <!-- QS Bluetooth auto on -->
+    <!-- QS Bluetooth auto on 
     <com.sakura.support.preferences.SystemSettingSwitchPreference
         android:key="qs_bt_auto_on"
         android:title="@string/qs_bt_auto_on_title"
         android:summary="@string/qs_bt_auto_on_summary"
-        android:defaultValue="true" />
+        android:defaultValue="true" /> -->
 
     <!-- QS data usage -->
     <com.sakura.support.preferences.SystemSettingSwitchPreference

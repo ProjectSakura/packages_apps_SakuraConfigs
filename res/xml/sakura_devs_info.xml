@@ -79,6 +79,16 @@
         </Preference>
 
         <Preference
+            android:key="dev7"
+            android:title="@string/dev_7"
+            android:icon="@drawable/ic_code"
+            android:summary="@string/dev7_description" >
+        <intent
+            android:action="android.intent.action.VIEW"
+            android:data="https://telegram.me/momen_abdulrazek" />
+        </Preference>
+
+        <Preference
             android:key="dev5"
             android:title="@string/dev_5"
             android:icon="@drawable/ic_code"
@@ -98,15 +108,6 @@
             android:data="https://telegram.me/XelXen" />
         </Preference>
 
-        <Preference
-            android:key="dev7"
-            android:title="@string/dev_7"
-            android:icon="@drawable/ic_code"
-            android:summary="@string/dev7_description" >
-        <intent
-            android:action="android.intent.action.VIEW"
-            android:data="https://telegram.me/momen_abdulrazek" />
-        </Preference>
 </PreferenceCategory>
 
 <!-- <PreferenceCategory
